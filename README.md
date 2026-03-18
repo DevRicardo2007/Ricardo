@@ -88,9 +88,8 @@ Les tests incluent :
 
 ## Auteur
 
-Nom : ABE Romain
-
-Statut : Étudiant en premiere annee de Systeme et reseau informatique(SRI)
+Nom : koumaka kondi Josias  
+Statut : Étudiant en premiere annee SRI 
 
 ---
 
